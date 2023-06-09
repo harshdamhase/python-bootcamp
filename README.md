@@ -50,3 +50,23 @@ print(type(name))
 print(type(age))
 print(type(weight))
 ```
+### Variable Declaration Rule:
+1. Variable name is case sensitive.
+eg. age , AGE, Age. 
+2. Variable name can not start with number.
+3. Variable name contains (a-z,A-Z, 0-9).
+4. Variable name start with (a-z, A-Z, (__)).
+5. Variable name cannot contain special symbol.
+
+```py
+val = 10
+print(val)
+val = 30
+print(val)
+val = 50
+val = 60
+val = 70
+print(70)
+```
+
+***Output***: 10 30 70
