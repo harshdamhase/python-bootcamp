@@ -71,7 +71,7 @@ print(70)
 
 ***Output***: 10 30 70
 
-**End variable 
+**End variable** 
 
 Print function by default start from new line because he end value is set to \n, which represents a newline character, causing the next output to appear on a new line.
 
@@ -80,4 +80,16 @@ print("Good Evening", end="\n")
 print("Hello Everyone")
 ```
 
-format () function in Python is used to format strings by replacing placeholders with corresponding values
+format () function in Python is used to format strings by replacing placeholders with corresponding values.
+
+
+**Split Function :**
+split sentence through commas.
+
+**string functions:**
+1. **String length** length() function is used to count words in string.
+
+2.**slicing:** slicing 
+```py
+string[start:end]
+```
