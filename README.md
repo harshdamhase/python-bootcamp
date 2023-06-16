@@ -93,3 +93,13 @@ split sentence through commas.
 ```py
 string[start:end]
 ```
+
+**In Operaor()**
+
+
+**Data structures**
+
+1. `List`
+2.  `Dictonary`
+3. Tuples
+
