@@ -7,3 +7,4 @@ print('ater add',courses)
 # Output:
 # After print ['c', 'c++', 'puthon', 'java']
 # ater add ['c', 'icp', 'puthon', 'java']
+
