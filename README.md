@@ -103,3 +103,15 @@ string[start:end]
 2.  `Dictonary`
 3. Tuples
 
+**Tuples :** Tuples is contains multiple items in single table. it is written in '()'.
+
+**Properties**
+
+1. Ordered.
+2. Contains duplicate elements.
+3. It is unchangble.
+
+ ### Tuples is a unchangable but we can change it by performing extra opearations 
+1. convert tuples to list.
+2. then peroform the operation.
+3. again it convert to tuples.
