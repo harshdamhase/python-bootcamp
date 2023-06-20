@@ -6,3 +6,11 @@ print(myBasket)
 
 
 # ('cherry', 'Banana', 'Grapes', 'Orange', 'Apple')
+
+
+pythonStudent = ("Saurabh","pooja","saurabh","Tushar","Harshal")
+print(pythonStudent.count('Tushar'))
+
+
+pythonStudent = ("Saurabh","pooja","saurabh","Tushar","Harshal")
+print(pythonStudent.index('Tushar'))
