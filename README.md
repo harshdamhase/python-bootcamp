@@ -115,3 +115,31 @@ string[start:end]
 1. convert tuples to list.
 2. then peroform the operation.
 3. again it convert to tuples.
+
+## Conditional statements
+
+  ### if
+  
+  `syntax`
+
+  ```py
+  if condition:
+      statment-1
+      statment-2  
+  ```
+
+ if condition returns true if condition is true.it is only executed when condtion is true.
+
+### if-else
+
+`syntax:`
+
+
+  ```py
+  if condition:
+      statment-1
+      statment-2
+  else:
+       statment-1
+       statment-2    
+  ```
